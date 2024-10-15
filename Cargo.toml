@@ -1,7 +1,13 @@
 [package]
 name = "ryobi-inscope-rs"
 version = "0.1.0"
+authors = ["Axel Karjalainen <axel@axka.fi>"]
 edition = "2021"
+description = "Command-line program for working with RYOBI's Phone Works inspection scope"
+readme = "README.md"
+repository = "https://github.com/axelkar/ryobi-inscope-rs"
+license = "MIT OR Apache-2.0"
+categories = ["command-line-utilities"]
 
 [dependencies]
 owo-colors = "4.1.0"
